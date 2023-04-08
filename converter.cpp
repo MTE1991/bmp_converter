@@ -1,4 +1,4 @@
-#include "lib/EasyBMP.h"
+#include "include/EasyBMP.h"
 #include <cstdlib>
 #include <iostream>
 #include <string>
